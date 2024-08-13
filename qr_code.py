@@ -3,7 +3,7 @@ import pyqrcode
 import png
 from pyqrcode import QRCode 
 
-code = "I love you Priya Baby \n From Himanshu"
+code = "This is the scanner message"
 
 
 # Generate QR code 
